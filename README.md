@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/mykhailo-pomorskyi/"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/LinkedIn.png" alt="mykhailo-pomorskyi | LinkedIn" width="21px"/></a>
   <a href="mailto:mishapomorskyi@gmail.com"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/gmail.png" alt="mishapomorskyi@gmail.com | Gmail" width="21px"/></a>
   <a href="https://t.me/misha_pomorskyi"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/telegram.png" alt="misha_pomorskyi | Telegram" width="21px"/></a>
-  <a href=""><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/instagram.png" alt=" | Telegram" width="21px"/></a>
+  <a href="https://www.instagram.com/pomorskyi?r=nametag"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/instagram.png" alt="pomorskyi | Telegram" width="21px"/></a>
 </p>
 
 ## Main competencies as a Developer
