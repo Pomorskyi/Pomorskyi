@@ -1,6 +1,8 @@
 ![banner](https://i.imgur.com/ifyUDHS.png)
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mykhailo-pomorskyi/"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/LinkedIn.png" alt="mykhailo-pomorskyi | LinkedIn" width="21px"/></a>
+  <a href="mailto:mishapomorskyi@gmail.com"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/gmail.png" alt="icon | Gmail" width="21px"/></a>
   <a href="https://www.linkedin.com/in/mykhailo-pomorskyi/"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/LinkedIn.png" alt="icon | LinkedIn" width="21px"/></a>
 </p>
 
