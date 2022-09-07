@@ -1,13 +1,21 @@
 ![banner](https://i.imgur.com/ifyUDHS.png)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mykhailo-pomorskyi/"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/LinkedIn.png" alt="mykhailo-pomorskyi | LinkedIn" width="21px"/></a>
-  <a href="mailto:mishapomorskyi@gmail.com"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/gmail.png" alt="mishapomorskyi@gmail.com | Gmail" width="21px"/></a>
-  <a href="https://t.me/misha_pomorskyi"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/telegram.png" alt="misha_pomorskyi | Telegram" width="21px"/></a>
-  <a href="https://www.instagram.com/pomorskyi?r=nametag"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/instagram.png" alt="pomorskyi | Telegram" width="21px"/></a>
-</p>
+<h3>
+🤝 Connect with me
+</h3>
+<a href="https://www.linkedin.com/in/mykhailo-pomorskyi/"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/LinkedIn.png" alt="mykhailo-pomorskyi | LinkedIn" width="21px"/></a>
 
-## Main competencies as a Developer
+<a href="mailto:mishapomorskyi@gmail.com"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/gmail.png" alt="mishapomorskyi@gmail.com | Gmail" width="21px"/></a>
+<a href="https://t.me/misha_pomorskyi"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/telegram.png" alt="misha_pomorskyi | Telegram" width="21px"/></a>
+<a href="https://www.instagram.com/pomorskyi?r=nametag"><img align="left" src="https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/instagram.png" alt="pomorskyi | Telegram" width="21px"/></a>
+
+<br />
+
+<h3 align="center">
+I'm a Front-End Developer 💻, Student 👨‍🎓, and Blockchain interested ⛓️!
+</h3> 
+
+#### Mainompetencies as a Developer
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
