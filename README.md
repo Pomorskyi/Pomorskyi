@@ -1,7 +1,7 @@
 ![banner](https://i.imgur.com/ifyUDHS.png)
 
 <p align="center">
-  <a href=”https://www.linkedin.com"><img align=”left” src=”https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/develop/images/LinkedIn.png" alt=”icon | LinkedIn” width=”21px”/></a>
+  <a href=”https://www.linkedin.com"><img align=”left” src=”https://raw.githubusercontent.com/Pomorskyi/Pomorskyi/main/images/LinkedIn.png" alt=”icon | LinkedIn” width=”21px”/></a>
 </p>
 
 ## Main competencies as a Developer
