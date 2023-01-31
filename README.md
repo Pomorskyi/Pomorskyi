@@ -44,7 +44,7 @@ I'm a Front-End Developer 💻, Student 👨‍🎓, and Blockchain interested �
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 ### 🔭 Currently working on 
- - Visual representing of sorting algorithms (link in development 🚧)
+ - Visual representing of sorting algorithms - [link](https://sorting-6c19a.web.app)
  - Telegram + Twitter = <a href="https://github.com/Pomorskyi/memriendly" target="_blank" rel="noreferrer">Memriendly social network</a>
  - Portfolio site (link in development 🚧)
  - Full-time working as Front-End developer (you can read more on [LinkedIn](https://www.linkedin.com/in/mykhailo-pomorskyi/))
