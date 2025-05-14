@@ -1,5 +1,3 @@
-![banner](https://i.imgur.com/ifyUDHS.png)
-
 <h3>
 🤝 Connect with me
 </h3>
