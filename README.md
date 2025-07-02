@@ -18,25 +18,17 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🌱 I learned all this by using
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🔭 Currently working on 
+ - Application Tracker Application - [link](https://application-tracker-app.vercel.app/)
+ - Portfolio site - [link](https://pomorskyi.web.app/)
+ - Full-time working as Full Stack Developer (you can read more on [LinkedIn](https://www.linkedin.com/in/mykhailo-pomorskyi/))
 
 ### ₿ Other interests
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-### 🔭 Currently working on 
- - Visual representing of sorting algorithms - [link](https://sorting-6c19a.web.app)
- - Portfolio site - [link](https://pomorskyi.web.app/)
- - Full-time working as Front-End developer (you can read more on [LinkedIn](https://www.linkedin.com/in/mykhailo-pomorskyi/))
-
 ### 📝 Now learing 
- - Node.js
+ - Microservice architectural style
  - Web3
  - Ethereum
 
